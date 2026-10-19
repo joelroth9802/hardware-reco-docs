@@ -22,3 +22,8 @@ Para la cuarta entrega, utilice Gemini para que me diga para que sirve cada elem
 
 ## Justificación crítica y supervisión humana:
 Todo el contenido conceptual, la identificación de los procesos de la empresa, la redacción técnica, el diseño del organigrama, la definición del modelo relacional con sus claves foráneas, la diagramación en Bizagi Modeler y la configuración de las Historias de Usuario en el entorno de versionado fueron analizados, validados y ejecutados críticamente por el alumno.
+
+## Estructura de la Documentación
+En este repositorio encontrarás los siguientes recursos del Trabajo Práctico Integrador:
+- `/Entregas y archivos/`: Documentos Word con las sucesivas entregas del TPI y archivos gráficos exportados (Organigrama, Modelado BPMN y Diagrama de Gantt).
+- `Modulos.md`: Especificación técnica de los módulos del sistema.
